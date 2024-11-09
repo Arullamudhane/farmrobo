@@ -3,7 +3,7 @@ import { motion, useScroll, useTransform } from 'framer-motion';
 
 const configurations = [
   {
-    image: "/tractor.png",
+    image: "/tractor-front.png",
     title: "AUTONOMOUS TRACTOR",
     description: "Next-Generation Robotic Farming"
   },
