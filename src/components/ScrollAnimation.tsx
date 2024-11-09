@@ -115,7 +115,7 @@ const ScrollAnimation = () => {
   return (
     <div 
       ref={containerRef}
-      className="h-[60vh] bg-black relative overflow-hidden"
+      className="h-[73vh] bg-black relative overflow-hidden"
     >
       {/* Background effects */}
       <div className="absolute inset-0">
